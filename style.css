@@ -14,30 +14,3 @@ p {
   width: 1000px;
   margin: auto;
 }
-
-.exBar {
-  fill: #99eeee;
-}  
-
-.imBar {
-  fill: #ffdddd;
-}  
-
-.exGoodsBar {
-  fill: #66bbbb;
-}  
-
-.imGoodsBar {
-  fill: #ffaaaa;
-}  
-
-.exBar:hover, .imBar:hover, .exGoodsBar:hover, .imGoodsBar:hover {
-  fill: #ffffaa;
-}
-
-#tooltip {
-  position: absolute;
-  opacity: 0;
-  padding: 10px;
-  border-radius: 15px;
-}
